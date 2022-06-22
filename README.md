@@ -1,2 +1,2 @@
-# GMC-PrintNet
-Alguns recursos de projetos focado em gráfica/ccm feitos com a ferramente GMC Print Net hoje Quadient.
+# AFP Simplex e Duplex
+Trata arquivo AFP em simplex ou duplex
